@@ -13,4 +13,4 @@ En 2021 empecé a hacer algunos cursos de programación de Aprendé Programando,
 
 
 Por último dejo una fotito para saber cómo me veo (yo no soy el de rojo)
-![mi novia, papá noel y yo](/https://github.com/pdepviernestm/2026-tp0-Alejrodriguez-315-1/blob/main/navidad.jpg?raw=true "mi novia, papá noel y yo")
+![mi novia, papá noel y yo](/navidad.jpg "mi novia, papá noel y yo")
